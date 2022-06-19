@@ -13,7 +13,6 @@
   - [Contents](#contents)
   - [Community](#community)
   - [Essentials](#essentials)
-  - [Official plugins](#official-plugins)
   - [Examples](#examples)
   - [Articles](#articles)
   - [Contributing](#contributing)
