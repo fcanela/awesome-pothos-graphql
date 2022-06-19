@@ -4,12 +4,12 @@
 
 > Curated list of resources about using Pothos.
 
-[Pothos](https://pothos-graphql.dev/): a plugin based GraphQL schema builder for TypeScript
+[Pothos](https://pothos-graphql.dev/): a plugin based code-first GraphQL schema builder for TypeScript
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Contents
-- [Awesome Pothos](https://github.com/fcanela/awesome-pothos-graphql) ![Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Pothos](https://github.com/fcanela/awesome-pothos-graphql) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
   - [Contents](#contents)
   - [Community](#community)
   - [Essentials](#essentials)
