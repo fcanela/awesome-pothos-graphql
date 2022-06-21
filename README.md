@@ -14,6 +14,7 @@
   - [Community](#community)
   - [Essentials](#essentials)
   - [Examples](#examples)
+  - [Examples for GiraphQL](#examples-for-giraphql)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Contributing](#contributing)
@@ -30,6 +31,13 @@
 
 ## Examples
 * [theogravity/graphql-pothos-server-example](https://github.com/theogravity/graphql-pothos-server-example) - Also uses Apollo Server, Express, graphql-ws for subscriptions, Sequelize, GraphQL-playground and graphql-codegen. 
+
+## Examples for GiraphQL
+`Pothos` was previously named `GiraphQL`, but the name was thought to be a typing mistake and difficult to Google. `GiraphQL` was renamed to `Pothos` on [January 20th, 2022](https://github.com/hayes/pothos/commit/4caad5e42f75de2ba9ea6bb5d1ed85f3b500e7bd). Code compatible with `GiraphQL` version `2` should be compatible with `Pothos`.
+* [OmkarK45/social-media-backend](https://github.com/OmkarK45/social-media-backend) - Prisma, Apollo Server, Express.
+* [baristikir/giraphql-prisma-grantscopes](https://github.com/baristikir/giraphql-prisma-grantscopes) - Prisma, Next and some plugins (prisma, scope-auth, simple-objects, smart-subscriptions, validation). The API is limited to create and retrieve articles.
+
+
 
 ## Articles
  * [Type-safe GraphQL Server with Pothos (Formerly GiraphQL)](https://omkarkulkarni.hashnode.dev/type-safe-graphql-server-with-pothos-formerly-giraphql)
