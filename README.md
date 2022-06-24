@@ -44,7 +44,7 @@
  * [Pothos vs. TypeGraphQL for TypeScript schema building](https://blog.logrocket.com/pothos-vs-typegraphql-for-typescript-schema-building/)
  
 ## Videos
- * [Prisma Day 2022 - Hayes talk](https://youtu.be/ZbmRHU0jyPQ?t=7152) Introductory talk to Pothos given by Michael Hayes, the creator of the library.
+ * [Prisma Day 2022 - Hayes talk](https://youtu.be/LqKPfMmxFxw) Introductory talk to Pothos given by Michael Hayes, the creator of the library.
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
